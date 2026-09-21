@@ -36,6 +36,7 @@ public class Main {
         // Delete all.
         mystack.clear();
 
+        // Print.
         System.out.println(mystack); // Output: []
 
     }
